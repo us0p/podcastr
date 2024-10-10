@@ -7,7 +7,7 @@ aproveitando todas as funcionalidades que o ReactJS geralmente provém, porém m
 scss para o processamento das folhas de estilo. Além disso, foi criado um servidor com o json-server para alimentar o projeto.
 
 ## Dependencies
-- node 16.20.4;
+- node 16.20.2;
 - npm 8.19.4;
 - yarn 1.22.22;
 
