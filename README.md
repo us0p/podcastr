@@ -6,6 +6,11 @@ Este projeto foi desenvolvido durante a NWL#5 em acompanhamento com a equipe da 
 aproveitando todas as funcionalidades que o ReactJS geralmente provém, porém mantendo a página aberta para os webcrawlers mantendo o HTML estático, foi utilzado também o processador
 scss para o processamento das folhas de estilo. Além disso, foi criado um servidor com o json-server para alimentar o projeto.
 
+## Dependencies
+- node 16.20.4;
+- npm 8.19.4;
+- yarn 1.22.22;
+
 
 ## Instalando dependências
 ```shell
@@ -14,7 +19,7 @@ yarn
 
 ## Utilização - json-server
 ```shell
- json-server server.json -w -d 750 -p 3333
+yarn run server
  ```
  
  ## Utilização - client
